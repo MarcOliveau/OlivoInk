@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on localhost:8764
+From: webmaster@localhost
+To: salmanamal@outlook.com
+Date: Fri, 21 May 2021 15:11:52 -0000
+Message-ID: <162160991272.20864.8355552784268607221@advprog>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8764.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8764/accounts/reset/MQ/an07js-fbb6040530d997da7c1f0d5a96085a93/
+
+Your username, in case you’ve forgotten: amal
+
+Thanks for using our site!
+
+The localhost:8764 team
+
+
+
+-------------------------------------------------------------------------------
